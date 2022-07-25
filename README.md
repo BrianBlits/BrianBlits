@@ -6,7 +6,8 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Louisiana
 * ✉️  You can contact me at [brianlapeyrouse98@gmail.com](mailto:brianlapeyrouse98@gmail.com)
-* 🚀  I'm currently working part-time on BLITS
+* 🚀  I'm currently working full-time with GxP Partners - Agency
+* 💻  I'm currently working part-time on BLITS - WIP
 * 💻  I'm currently working part-time with Wolf Raider Services - Agency
 * 🤝  I'm collaborating on a TBA - iOS game
 
