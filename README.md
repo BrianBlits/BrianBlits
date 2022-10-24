@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Lapeyrouse
 ========================================================================================================================================
 
-Full Stack Web Developer
+Full Stack Web and Mobile Developer
 ------------------------
 
 * 🌍  I'm based in Louisiana
 * ✉️  You can contact me at [brianlapeyrouse98@gmail.com](mailto:brianlapeyrouse98@gmail.com)
 * 💻  I'm currently working part-time on BLITS - WIP
 * 💻  I'm currently working part-time with Wolf Raider Services - Agency
-* 🤝  I'm collaborating on a TBA - iOS game
+* 🤝  I'm collaborating on a TBA - iOS App
 
 ### Skills
 
