@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Lapeyrouse
 ========================================================================================================================================
 
-Full Stack Web and Mobile Developer
+Full Stack Web and Mobile Developer for Hire!
 ------------------------
 
 * 🌍  I'm based in Louisiana
-* ✉️  You can contact me at [brianlapeyrouse98@gmail.com](mailto:brianlapeyrouse98@gmail.com)
-* 💻  I'm currently working part-time on BLITS - WIP
-* 💻  I'm currently working part-time with Wolf Raider Services - Agency
+* ✉️  You can contact me at [brian.blits@gmail.com](mailto:brian.blits@gmail.com)
+* 💻  I'm part-time freelance at BLITS - WIP
+* 💻  I'm working per contract with Wolf Raider Services LLC - Agency
 * 🤝  I'm collaborating on a TBA - iOS App
 
 ### Skills
@@ -33,4 +33,4 @@ Full Stack Web and Mobile Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/troublelap1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brian-lapeyrouse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/troublelap1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/BrianBlits" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brian-lapeyrouse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/blits404" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
