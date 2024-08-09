@@ -7,7 +7,6 @@ Full Stack Web and Mobile Developer for Hire!
 * 🌍  I'm based in Louisiana
 * ✉️  You can contact me at [brian.blits@gmail.com](mailto:brian.blits@gmail.com)
 * 💻  I'm part-time freelance at BLITS - WIP
-* 💻  I'm working per contract with Wolf Raider Services LLC - Agency
 * 🤝  I'm collaborating on a TBA - iOS App
 
 ### Skills
